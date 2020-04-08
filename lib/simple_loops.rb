@@ -26,7 +26,7 @@ end
 
 def return_string_array(array)
   counter = 0
-  while count < array.legnth do
+  while counter < array.legnth do
     array[counter].to_s
     counter += 1
   end
